@@ -1,6 +1,6 @@
 # SQL-Projects  
-Project 1: Covid-19 Project  
-Description: Performed Data Exploration using SQL Commands on Impact of Covid - 19 Data for the year Jan 2020- Jun 2022 across the World Population  
+Project 1: Data Exploration on Covid-19 Dataset    
+Description: Performed Data Exploration using SQL Commands on Impact of Covid - 19 for the year Jan 2020- Jun 2022 across the World Population  
 Steps:  
   - understanding the dataset which relies on Covid19 Info across the globe from John Hopkins University  
   - Detailed study about the various fields and the values/data captured into those fields  
@@ -18,7 +18,8 @@ Steps:
    the dataset.  
  
  
- Project 2 : Nashville Housing Data for Data Cleaning purpose  
+ 
+ Project 2 : Data Cleaning on Nashville Housing Dataset   
  Description: Performed Data cleaning on Nashville Housing data which had information about the various properties of the house and the selling details about the same  
  Steps:  
     - Standardize / change the Sale Date column to fit the desired requirement  
